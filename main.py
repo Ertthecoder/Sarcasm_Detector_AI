@@ -63,6 +63,7 @@ if __name__ == '__main__':
     data = list(parse_data('./Sarcasm_Headlines_Dataset.json'))
     df = pd.DataFrame(data)
     print(df.head())
+    
     # PREPROCESSING ----------------------------------------------------------------------------------------------------
 
     # Removing the link column from the df since we won't use it
