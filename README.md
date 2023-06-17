@@ -1,2 +1,2 @@
 # Sarcasm_Detector_AI
-NLP Model training for text classification
+NLP Model training project for text classification
